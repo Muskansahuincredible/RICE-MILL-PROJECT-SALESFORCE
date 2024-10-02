@@ -3,3 +3,4 @@ The Rice Mill CRM Application is a tailored solution designed to revolutionize t
 
 Check Below LINK For Explanation Video for the project CRM APPLICATION FOR WHOLESALE RICE MILL
 [click here to watch the video](https://drive.google.com/file/d/1tF-fAE4giMe7dnnOKwTdG4HE1mwyhMZx/view?usp=drive_link)
+ # project DOCS -----   https://drive.google.com/file/d/1Ck0KycW6HsJ5-Eq8pf2Pnsi7TPEuG7eg/view
